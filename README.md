@@ -1,4 +1,4 @@
-# LightStream: Wisely Lightening Mobile Short Video Streaming for a User-Vendor Win-Win Game
+# LightStream: Wisely Lightening Mobile Short Video Streaming for User-Vendor Win-Win
 
 ## TL;DR
 LightStream is a prefetching algorithm designed for short video streams, effectively **minimizing bandwidth waste**.
